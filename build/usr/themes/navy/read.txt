@@ -1,3 +1,0 @@
-模板说明:
-1,网站用的是typecho,网址:http://typecho.org/
-2,把模板放在/usr/themes 下即可.
